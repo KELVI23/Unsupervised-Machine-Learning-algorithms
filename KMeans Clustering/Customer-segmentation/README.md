@@ -25,10 +25,10 @@ K-means partitions customers into 3 mutually exclusive clusters.
 The customers in each cluster are similar to each other demographically. Now we can create a profile for each group, considering the common characteristics of each cluster.
 These 3 clusters can be:
 
-	####   AFFLUENT, EDUCATED AND OLD AGED
+	* AFFLUENT, EDUCATED AND OLD AGED
 	
-	####    MIDDLE AGED AND MIDDLE INCOME
+	* MIDDLE AGED AND MIDDLE INCOME
 	
-	####    YOUNG AND LOW INCOME
+	* YOUNG AND LOW INCOME
  
 
