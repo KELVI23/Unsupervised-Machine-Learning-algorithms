@@ -23,6 +23,7 @@ __Segment customer base nto groups of individuals that have similar characterist
 
 K-means partitions customers into 3 mutually exclusive clusters.
 The customers in each cluster are similar to each other demographically. Now we can create a profile for each group, considering the common characteristics of each cluster.
+
 These 3 clusters can be:
 
 	AFFLUENT, EDUCATED AND OLD AGED
