@@ -14,7 +14,7 @@ __Segment customer base nto groups of individuals that have similar characterist
   <img src="https://imgur.com/UfF87Kh.png" alt="clustered data" />
 </p>
 
-#### Analyze the distribution of customers based on their age and income
+### Analyze the distribution of customers based on their age and income
 <p align="left">
   <img src="https://imgur.com/0viybuz.png" alt="dataset" />
 </p>
