@@ -8,15 +8,19 @@ __Segment customer base nto groups of individuals that have similar characterist
   <img src="https://imgur.com/jheUzPO.png" alt="dataset" />
 </p>
 
-## Insights
+## Insights after clustering data
 ### KMeans - number of clusters  = 3
+<p align="left">
+  <img src="https://imgur.com/UfF87Kh.png" alt="clustered data" />
+</p>
+
 #### Analyze the distribution of customers based on their age and income
 <p align="left">
   <img src="https://imgur.com/0viybuz.png" alt="dataset" />
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/il3r4d5.png" alt="RoC Curve" />
+  <img src="https://imgur.com/il3r4d5.png" alt="" />
 </p>
 
 ## Conclusion
